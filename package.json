@@ -1,6 +1,6 @@
 {
-  "name": "@solana/qr-code-styling",
-  "version": "1.6.0",
+  "name": "@likecoin/qr-code-styling",
+  "version": "1.6.4",
   "publishConfig": {
     "access": "public"
   },
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kozakdenys/qr-code-styling.git"
+    "url": "git+https://github.com/likecoin/qr-code-styling.git"
   },
   "keywords": [
     "qr",
